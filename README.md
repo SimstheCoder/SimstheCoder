@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @SimstheCoder
 - 👀 I’m interested in ... Data Science
-- 🌱 I’m currently learning ... R
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning ... R and Python
 - 📫 How to reach me ... sisme406@gmail.com
 
 <!---
