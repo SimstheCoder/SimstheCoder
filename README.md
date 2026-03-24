@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @SimstheCoder
-- 👀 I’m interested in ... Data Science
-- 🌱 I’m currently learning ... R and Python
+My name is Ethan Sims. I am a current Master of Data Science student at Rice, while working fulltime as a data science. I have aspirations of getting into data science and machine learning. 
 - 📫 How to reach me ... simse406@gmail.com
 
 <!---
